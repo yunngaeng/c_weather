@@ -44,7 +44,7 @@ bool isRaining();
 // 비가 올 때 운동 추천 함수
 void recommendRainyActivity();
 
-// 비가 올 때 옷차림 추천 함수
+// 비가 올 때 스타일링 추천 함수
 void recommendRainyClothing();
 
 #endif  // FUNCTIONS_H#pragma once

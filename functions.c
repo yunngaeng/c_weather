@@ -184,7 +184,7 @@ void recommendRainyActivity() {
     printf("비가 오는 날에는 실내 운동을 추천합니다. (요가, 필라테스, 홈 트레이닝)\n");
 }
 
-// 비가 올 때 옷차림 추천 함수
+// 비가 올 때 스타일링 추천 함수
 void recommendRainyClothing() {
     printf("비가 오는 날에는 방수 재킷이나 우비, 방수 신발을 착용하세요. 우산도 꼭 챙기세요!\n");
 }
